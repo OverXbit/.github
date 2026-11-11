@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" alt="OVERXBIT" width="160">
+</p>
+
 # OVERXBIT
 
 Bitcoin mining and trading for clients who want a defined investment period, clear reporting, and a private portal.
